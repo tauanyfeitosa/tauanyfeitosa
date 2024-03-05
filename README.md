@@ -18,5 +18,11 @@ Embora esteja recentemente no mundo da programação (de cabeça nessa nova jorn
 
 Seja bem-vindo ao meu GitHub, onde poderá acompanhar todo o meu crescimento técnico e estudos! Espero que encontre o que procura ou que te auxilie e inspire. Vamos crescer juntos nesta jornada de constante aprendizado e inovação.
 
-![Tauany Github Stats](https://github-readme-stats.vercel.app/api?username=tauanyfeitosa&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tauanyfeitosa&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tauanyfeitosa&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauanyfeitosa&layout=compact" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tauanyfeitosa&theme=onedark" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=tauanyfeitosa&theme=dark&background=000000" />
+</p>
